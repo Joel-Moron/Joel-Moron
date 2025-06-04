@@ -2,13 +2,13 @@
 
 <p align="center">
     <a href="https://github.com/Joel-Moron">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Especialista+en+React;Autodidacta+%7C+Curioso+tecnológico;Siempre+aprendiendo+nuevas+habilidades&center=true&width=500&height=45&font=Fira+Code&color=7FFF00&size=22">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Autodidacta+%7C+Curioso+tecnológico;Siempre+aprendiendo+nuevas+habilidades&center=true&width=500&height=45&font=Fira+Code&color=7FFF00&size=22">
     </a>
 </p>
 
 <img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<p style="display: flex; justify-content: center; gap: 20px;">
 
 <kbd style="flex: 1; white-space: pre-wrap; padding: 15px;">
 <b>🚀 Sobre Mí</b>
@@ -34,7 +34,7 @@
     � Aprendizaje continuo de idiomas
 </kbd>
 
-</div>
+</p>
 # 💻 Tecnologas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p style="display: inline-block;" align="center">
