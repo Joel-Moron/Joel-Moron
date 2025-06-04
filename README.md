@@ -10,7 +10,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-<kbd style="padding: 15px; white-space: pre-wrap;">
+<kbd style="padding: 15px; white-space: pre-wrap; width:43%;">
 <b>🚀 Sobre Mí</b>
 
     💻 Programador full-stack con foco en 
@@ -32,7 +32,7 @@
     (próximamente).
 </kbd>
 
-<kbd style="padding: 15px; white-space: pre-wrap;">
+<kbd style="padding: 15px; white-space: pre-wrap; width:43%;">
 <b>🧩 Intereses & Hobbies</b>
 
     � Colección de cubos Rubik (3x3 al 7x7)
