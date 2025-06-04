@@ -8,40 +8,33 @@
 
 <img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 
-<p style="display: inline-block;" align="center">
-<kbd><pre>
-🚀 Sobre Mí
+<div style="display: flex; justify-content: center; gap: 20px;">
+
+<kbd style="flex: 1; white-space: pre-wrap; padding: 15px;">
+<b>🚀 Sobre Mí</b>
 
     💻 Programador full-stack con foco en desarrollo web
-
     🌐 También exploro desktop, móvil e IA
-
-    🧠 Autodidacta constante en tecnología y otros temas
-
+    🧠 Autodidacta constante en tecnología
     ⚡ Automatizo tareas repetitivas por diversión
-
     🌙 Fanático del modo oscuro en todos los IDEs
-
     ✍️ Escribo ocasionalmente en mi blog
-</pre></kbd>
-<div style="width: 4%; border-left: 2px solid #30363d; height: auto; margin: 0 2%;"></div>
-<kbd><pre>
-🧩 Intereses & Hobbies
+</kbd>
+
+<div style="border-left: 2px solid #444; height: auto;"></div>
+
+<kbd style="flex: 1; white-space: pre-wrap; padding: 15px;">
+<b>🧩 Intereses & Hobbies</b>
 
     � Colección de cubos Rubik (3x3 al 7x7)
-
     🎬 Cine de sci-fi y anime clásico
-
-    � Documentales científicos y de tecnología
-
+    � Documentales científicos y tecnología
     🔭 Astronomía y exploración espacial
-
     🎮 Videojuegos indie y puzzles
-
     � Aprendizaje continuo de idiomas
-</pre></kbd>
-</p>
+</kbd>
 
+</div>
 # 💻 Tecnologas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 <p style="display: inline-block;" align="center">
