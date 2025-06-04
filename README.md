@@ -13,7 +13,7 @@
     <kbd>🚀 Sobre Mí</kbd>
     <br>
     <br>
-    <p style="width: 40%;">
+    <pre>
           
         💻 Programador full-stack con foco en desarrollo web, pero siempre explorando otros mundos (desktop, móvil, IA).
     
@@ -24,17 +24,22 @@
         🌙 Prefiero el modo oscuro en mis editores e IDE's (menos fatiga visual).
     
         ✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias en mi blog (próximamente).
-  </p>
+  </pre>
   </kbd>
   <kbd>
     <kbd>🧩 Intereses & Hobbies</kbd>
     <br>
     <br>
     � Colección de cubos Rubik (3x3 al 7x7)
+    <br>
     🎬 Cine de sci-fi y anime clásico
+    <br>
     � Documentales científicos y tecnología
+    <br>
     🔭 Astronomía y exploración espacial
+    <br>
     🎮 Videojuegos indie y puzzles
+    <br>
     � Aprendizaje continuo de idiomas
   </kbd>
 </p>
