@@ -9,12 +9,10 @@
 <img align="right" width="480" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 <b>🚀 Sobre Mí</b>
 <ul>
-    <li>🔭 Atualmente estou trabalhando na aréa de Logística.</li>
-    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
-    <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>
-    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>
-    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
-    <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>
+    <li>💻 Programador full-stack con foco en desarrollo web, pero siempre explorando otros mundos (desktop, móvil, IA).</li>
+    <li>🧠 Autodidacta por naturaleza, aprendiendo tanto de código como de la vida</li>
+    <li>⚡ Creo que la mejor forma de aprender es construyendo cosas útiles que automaticen lo aburrido.</li>
+    <li>✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias en mi blog (próximamente).</li>
 </ul>
 
 | 🚀 Sobre Mí | 🧩 Intereses & Hobbies |
