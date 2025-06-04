@@ -8,47 +8,26 @@
 
 <img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 
-<div align="center" style="display: flex; justify-content: center; gap: 50px;">
+## 
 
-<kbd style="padding: 15px; white-space: pre-wrap; font-size: 16px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
-<b>🚀 Sobre Mí</b>
+```text
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 🚀 Sobre Mí                                ┃ 🧩 Intereses & Hobbies                     ┃
+┃                                           ┃                                           ┃
+┃    💻 Programador full-stack con foco en  ┃    � Colección de cubos Rubik (3x3 al 7x7) ┃
+┃       desarrollo web + desktop/móvil/IA   ┃                                           ┃
+┃                                           ┃    🎬 Cine de sci-fi y anime clásico        ┃
+┃    � Autodidacta permanente                ┃                                           ┃
+┃                                           ┃    � Documentales científicos/tecnología   ┃
+┃    ⚡ Automatizo procesos aburridos        ┃                                           ┃
+┃                                           ┃    🔭 Astronomía y exploración espacial     ┃
+┃    🌙 Fanático del modo oscuro             ┃                                           ┃
+┃                                           ┃    🎮 Videojuegos indie y puzzles           ┃
+┃    ✍️ Escribo en mi blog técnico          ┃                                           ┃
+┃                                           ┃    � Aprendizaje continuo de idiomas        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-    💻 Programador full-stack con foco en 
-    desarrollo web, pero siempre explorando 
-    otros mundos (desktop, móvil, IA).
-
-    🧠 Autodidacta por naturaleza, aprendiendo 
-    tanto de código como de la vida.
-
-    ⚡ Creo que la mejor forma de aprender es 
-    construyendo cosas útiles que automaticen 
-    lo aburrido.
-
-    🌙 Prefiero el modo oscuro en mis editores 
-    e IDE's (menos fatiga visual).
-
-    ✍️ Ocasionalmente escribo sobre tecnología, 
-    tutoriales y experiencias en mi blog 
-    (próximamente).
-</kbd>
-
-<kbd style="padding: 15px; white-space: pre-wrap; font-size: 16px; line-height: 1.6; font-family: 'Segoe UI', sans-serif;">
-<b>🧩 Intereses & Hobbies</b>
-
-    � Colección de cubos Rubik (3x3 al 7x7)
-    
-    🎬 Cine de sci-fi y anime clásico
-    
-    � Documentales científicos y tecnología
-    
-    🔭 Astronomía y exploración espacial
-    
-    🎮 Videojuegos indie y puzzles
-    
-    � Aprendizaje continuo de idiomas
-</kbd>
-
-</div>
 </br>
 </br>
 
