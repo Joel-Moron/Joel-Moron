@@ -6,8 +6,16 @@
     </a>
 </p>
 
-<img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
-
+<img align="right" width="480" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
+<h2>🚀 Sobre Mí</h2>
+<ul>
+    <li>🔭 Atualmente estou trabalhando na aréa de Logística.</li>
+    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
+    <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>
+    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>
+    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
+    <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>
+</ul>
 
 | 🚀 Sobre Mí | 🧩 Intereses & Hobbies |
 | --- | --- |
