@@ -13,12 +13,18 @@
     <kbd>🚀 Sobre Mí</kbd>
     <br>
     <br>
-    💻 Programador full-stack con foco en desarrollo web
-    🌐 También exploro desktop, móvil e IA
-    🧠 Autodidacta constante en tecnología
-    ⚡ Automatizo tareas repetitivas por diversión
-    🌙 Fanático del modo oscuro en todos los IDEs
-    ✍️ Escribo ocasionalmente en mi blog
+    <pre>
+          
+        💻 Programador full-stack con foco en desarrollo web, pero siempre explorando otros mundos (desktop, móvil, IA).
+    
+        🧠 Autodidacta por naturaleza, aprendiendo tanto de código como de la vida.
+    
+        ⚡ Creo que la mejor forma de aprender es construyendo cosas útiles que automaticen lo aburrido.
+    
+        🌙 Prefiero el modo oscuro en mis editores e IDE's (menos fatiga visual).
+    
+        ✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias en mi blog (próximamente).
+  </pre>
   </kbd>
   <kbd>
     <kbd>🧩 Intereses & Hobbies</kbd>
