@@ -9,9 +9,9 @@
 <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="360" />
 <b>🚀 Sobre Mí</b>
 <ul>
-    <li>💻 Programador full-stack con foco en desarrollo web, </br> pero siempre explorando otros mundos (desktop, móvil, IA).</li>
+    <li>💻 Programador full-stack con foco en desarrollo web, pero siempre </br> explorando otros mundos (desktop, móvil, IA).</li>
     <li>🧠 Autodidacta por naturaleza, aprendiendo tanto de código como de la vida</li>
-    <li>⚡ Creo que la mejor forma de aprender es construyendo cosas útiles que automaticen lo aburrido.</li>
+    <li>⚡ Creo que la mejor forma de aprender es construyendo cosas útiles </br> que automaticen lo aburrido.</li>
     <li>✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias en mi blog (próximamente).</li>
 </ul>
 
