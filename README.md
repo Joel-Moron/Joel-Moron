@@ -8,11 +8,45 @@
 
 <img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 
-<div align="center">
-  
-| 🚀 Sobre Mí | �️ Intereses & Hobbies |
-|-------------|-----------------------|
-| <ul style="list-style-type:none; padding-left:0;"><li>💻 <b>Programador full-stack</b> con foco en desarrollo web y exploración en desktop/móvil/IA</li><br><li>🧠 <b>Autodidacta</b> por naturaleza, aprendiendo tanto de código como de la vida</li><br><li>⚡ <b>Constructor</b> de soluciones que automatizan tareas repetitivas</li><br><li>🌙 <b>Fanático del modo oscuro</b> en todos mis entornos de desarrollo</li><br><li>✍️ <b>Escritor</b> ocasional sobre tecnología en mi blog</li></ul> | <ul style="list-style-type:none; padding-left:0;"><li>� <b>Cubos Rubik</b> (colección 3x3 al 7x7)</li><br><li>🎬 <b>Cine sci-fi</b> y anime clásico</li><br><li>� <b>Documentales</b> científicos y tecnológicos</li><br><li>🔭 <b>Astronomía</b> y exploración espacial</li><br><li>🎮 <b>Videojuegos</b> indie y de puzzles</li><br><li>� <b>Aprendizaje</b> continuo de idiomas</li></ul> |
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+<kbd style="padding: 15px; white-space: pre-wrap;">
+<b>🚀 Sobre Mí</b>
+
+    💻 Programador full-stack con foco en 
+    desarrollo web, pero siempre explorando 
+    otros mundos (desktop, móvil, IA).
+
+    🧠 Autodidacta por naturaleza, aprendiendo 
+    tanto de código como de la vida.
+
+    ⚡ Creo que la mejor forma de aprender es 
+    construyendo cosas útiles que automaticen 
+    lo aburrido.
+
+    🌙 Prefiero el modo oscuro en mis editores 
+    e IDE's (menos fatiga visual).
+
+    ✍️ Ocasionalmente escribo sobre tecnología, 
+    tutoriales y experiencias en mi blog 
+    (próximamente).
+</kbd>
+
+<kbd style="padding: 15px; white-space: pre-wrap;">
+<b>🧩 Intereses & Hobbies</b>
+
+    � Colección de cubos Rubik (3x3 al 7x7)
+    
+    🎬 Cine de sci-fi y anime clásico
+    
+    � Documentales científicos y tecnología
+    
+    🔭 Astronomía y exploración espacial
+    
+    🎮 Videojuegos indie y puzzles
+    
+    � Aprendizaje continuo de idiomas
+</kbd>
 
 </div>
 </br>
