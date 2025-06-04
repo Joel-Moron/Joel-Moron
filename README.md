@@ -1,14 +1,15 @@
 <h1 align="center"> Hola 👋, Soy Joel</h1>
 
-<img src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
-
 <p align="center">
     <a href="https://github.com/Joel-Moron">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Especialista+en+React;Autodidacta+%7C+Curioso+tecnológico;Siempre+aprendiendo+nuevas+habilidades&center=true&width=500&height=45&font=Fira+Code&color=7FFF00&size=22">
     </a>
 </p>
+
+<img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
+
 <div style="display: inline-block;" align="center">
-    <div style="width: 48%;">
+    <div style="width: 47%;">
 🚀 Sobre Mí
 
     💻 Programador full-stack con foco en desarrollo web
@@ -26,7 +27,7 @@
 </div>
 <div style="width: 4%; border-left: 2px solid #30363d; height: auto; margin: 0 2%;">
 </div>
-<div style="width: 48%;">
+<div style="width: 47%;">
 🧩 Intereses & Hobbies
 
     � Colección de cubos Rubik (3x3 al 7x7)
