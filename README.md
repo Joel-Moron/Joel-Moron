@@ -1,13 +1,13 @@
 <h1 align="center"> Hola 👋, Soy Joel</h1>
 
-<a target="_blank" href="https://www.stefanosst.gr"><img src="[https://github.com/StefanosSt/StefanosSt/blob/main/Group%203.png](https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0)"/></a>
+<img src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
-	</a>
+    <a href="https://github.com/Joel-Moron">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Full+Stack;Especialista+en+React;Autodidacta+%7C+Curioso+tecnológico;Siempre+aprendiendo+nuevas+habilidades&center=true&width=500&height=45&font=Fira+Code&color=7FFF00&size=22">
+    </a>
 </p>
-
+<div style="display: inline-block;" align="center">
 <div style="display: flex; justify-content: space-between;"><div style="width: 48%;">
 🚀 Sobre Mí
 
@@ -39,6 +39,7 @@
     � Aprendizaje continuo de idiomas
 
 </div></div>
+</div>
 
 # 💻 Tecnologas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
