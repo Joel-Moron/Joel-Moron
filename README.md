@@ -15,6 +15,14 @@
     <li>✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias en mi blog (próximamente).</li>
 </ul>
 
+<b>🧩 Intereses & Hobbies</b>
+<ul>
+    <li>� Coleccionar cubos Rubik y resolverlos.</li>
+    <li>🎬 Películas, anime y series de ciencia ficción.</li>
+    <li>🧪 Videos de divulgación científica y documentales.</li>
+    <li>🔭 Todo lo relacionado con astronomía y tecnología futurista.</li>
+</ul>
+
 | 🚀 Sobre Mí | 🧩 Intereses & Hobbies |
 | --- | --- |
 | 💻 Programador full-stack con foco en desarrollo web + desktop/móvil/IA  | � Colección de cubos Rubik (3x3 al 7x7) |
