@@ -9,8 +9,8 @@
 <img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 
 <p style="display: inline-block;" align="center">
-    <kbd>
-        <pre>            
+<kbd>
+<p>            
 🚀 Sobre Mí
 
     💻 Programador full-stack con foco en desarrollo web
@@ -24,12 +24,12 @@
     🌙 Fanático del modo oscuro en todos los IDEs
 
     ✍️ Escribo ocasionalmente en mi blog
-        </pre>
-    </kbd>
+</p>
+</kbd>
 <div style="width: 4%; border-left: 2px solid #30363d; height: auto; margin: 0 2%;">
 </div>
 <kbd>
-        <pre>            
+<p>            
 🧩 Intereses & Hobbies
 
     � Colección de cubos Rubik (3x3 al 7x7)
@@ -43,7 +43,7 @@
     🎮 Videojuegos indie y puzzles
 
     � Aprendizaje continuo de idiomas
-        </pre>            
+</p>            
 </kbd>
 </p>
 
