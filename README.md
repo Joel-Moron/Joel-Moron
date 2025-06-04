@@ -6,7 +6,7 @@
     </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="360" />
 <b>🚀 Sobre Mí</b>
 <ul>
     <li>💻 Programador full-stack con foco en desarrollo web, pero siempre explorando otros mundos (desktop, móvil, IA).</li>
@@ -17,7 +17,7 @@
 
 </br>
 
-<img align="right" width="480" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
+<img align="right" width="360" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 <b>🧩 Intereses & Hobbies</b>
 <ul>
     <li>� Coleccionar cubos Rubik y resolverlos.</li>
