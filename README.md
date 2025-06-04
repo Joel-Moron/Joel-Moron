@@ -11,21 +11,21 @@
 ## 
 
 ```text
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🚀 Sobre Mí                                ┃ 🧩 Intereses & Hobbies                     ┃
-┃                                           ┃                                           ┃
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ 🚀 Sobre Mí                               ┃ 🧩 Intereses & Hobbies                     ┃
+┃                                           ┃                                             ┃
 ┃    💻 Programador full-stack con foco en  ┃    � Colección de cubos Rubik (3x3 al 7x7) ┃
-┃       desarrollo web + desktop/móvil/IA   ┃                                           ┃
-┃                                           ┃    🎬 Cine de sci-fi y anime clásico        ┃
-┃    � Autodidacta permanente                ┃                                           ┃
+┃       desarrollo web + desktop/móvil/IA   ┃                                             ┃
+┃                                           ┃    🎬 Cine de sci-fi y anime clásico       ┃
+┃    � Autodidacta permanente               ┃                                            ┃
 ┃                                           ┃    � Documentales científicos/tecnología   ┃
-┃    ⚡ Automatizo procesos aburridos        ┃                                           ┃
-┃                                           ┃    🔭 Astronomía y exploración espacial     ┃
-┃    🌙 Fanático del modo oscuro             ┃                                           ┃
-┃                                           ┃    🎮 Videojuegos indie y puzzles           ┃
-┃    ✍️ Escribo en mi blog técnico          ┃                                           ┃
-┃                                           ┃    � Aprendizaje continuo de idiomas        ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┃    ⚡ Automatizo procesos aburridos       ┃                                            ┃
+┃                                           ┃    🔭 Astronomía y exploración espacial    ┃
+┃    🌙 Fanático del modo oscuro            ┃                                            ┃
+┃                                           ┃    🎮 Videojuegos indie y puzzles          ┃
+┃    ✍️ Escribo en mi blog técnico          ┃                                            ┃
+┃                                           ┃    � Aprendizaje continuo de idiomas       ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 </br>
