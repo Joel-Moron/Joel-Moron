@@ -6,7 +6,7 @@
     </a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="360" />
+<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="360" style="margin: 10px" />
 <b>🚀 Sobre Mí</b>
 <ul>
     <li>💻 Programador full-stack con foco en desarrollo web, pero siempre explorando otros mundos (desktop, móvil, IA).</li>
