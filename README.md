@@ -75,27 +75,6 @@
 <br>
 <br>
 
-## 🐍 Mis Contribuciones 
-![Serpiente de contribuciones](https://github.com/Joel-Moron/Joel-Moron/blob/output/github-contribution-grid-snake.svg)
-
-<h2 align="center"><u>Mis Estadísticas de GitHub</u></h2>
-<p align="center">
-  
-<!-- Lenguajes más usados -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Moron&layout=compact&theme=github_dark&langs_count=8&locale=es&exclude_repo=repo1,repo2" alt="Lenguajes más usados">
-<br><br>
-
-<!-- Estadísticas generales -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Joel-Moron&count_private=true&show_icons=true&line_height=21&theme=github_dark&locale=es&hide=prs,issues" alt="Estadísticas de Joel">
-<br><br>
-
-<!-- Racha de contribuciones -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Joel-Moron&theme=holi-theme&locale=es" alt="Racha de contribuciones">
-</p>
-
-</br>
-</br>
-
 ## :star2: Estadísticas de GitHub
 
 <div align="center">
