@@ -14,7 +14,7 @@
     <li>⚡ Creo que la mejor forma de aprender es construyendo cosas útiles que automaticen lo aburrido.</li>
     <li>✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias en mi blog (próximamente).</li>
 </ul>
-
+</br>
 <b>🧩 Intereses & Hobbies</b>
 <ul>
     <li>� Coleccionar cubos Rubik y resolverlos.</li>
@@ -22,15 +22,6 @@
     <li>🧪 Videos de divulgación científica y documentales.</li>
     <li>🔭 Todo lo relacionado con astronomía y tecnología futurista.</li>
 </ul>
-
-| 🚀 Sobre Mí | 🧩 Intereses & Hobbies |
-| --- | --- |
-| 💻 Programador full-stack con foco en desarrollo web + desktop/móvil/IA  | � Colección de cubos Rubik (3x3 al 7x7) |
-| � Autodidacta permanente | 🎬 Cine de sci-fi y anime clásico |
-| ⚡ Automatizo procesos aburridos | � Documentales científicos/tecnología |
-| �🌙 Fanático del modo oscuro | 🔭 Astronomía y exploración espacial |
-| ✍️ Escribo en mi blog técnico | 🎮 Videojuegos indie y puzzles |
-
 
 </br>
 </br>
