@@ -7,7 +7,7 @@
 </p>
 
 <img align="right" width="480" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
-<h2>🚀 Sobre Mí</h2>
+<b>🚀 Sobre Mí</b>
 <ul>
     <li>🔭 Atualmente estou trabalhando na aréa de Logística.</li>
     <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
