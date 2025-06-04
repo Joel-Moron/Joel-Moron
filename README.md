@@ -8,25 +8,15 @@
 
 <img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 
-## 
 
-```text
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🚀 Sobre Mí                               ┃ 🧩 Intereses & Hobbies                     ┃
-┃                                           ┃                                             ┃
-┃    💻 Programador full-stack con foco en  ┃    � Colección de cubos Rubik (3x3 al 7x7) ┃
-┃       desarrollo web + desktop/móvil/IA   ┃                                             ┃
-┃                                           ┃    🎬 Cine de sci-fi y anime clásico       ┃
-┃    � Autodidacta permanente               ┃                                            ┃
-┃                                           ┃    � Documentales científicos/tecnología   ┃
-┃    ⚡ Automatizo procesos aburridos       ┃                                            ┃
-┃                                           ┃    🔭 Astronomía y exploración espacial    ┃
-┃    🌙 Fanático del modo oscuro            ┃                                            ┃
-┃                                           ┃    🎮 Videojuegos indie y puzzles          ┃
-┃    ✍️ Escribo en mi blog técnico          ┃                                            ┃
-┃                                           ┃    � Aprendizaje continuo de idiomas       ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+| 🚀 Sobre Mí | 🧩 Intereses & Hobbies |
+| --- | --- |
+| 💻 Programador full-stack con foco en desarrollo web + desktop/móvil/IA  | � Colección de cubos Rubik (3x3 al 7x7) |
+| � Autodidacta permanente | 🎬 Cine de sci-fi y anime clásico |
+| ⚡ Automatizo procesos aburridos | � Documentales científicos/tecnología |
+| �🌙 Fanático del modo oscuro | 🔭 Astronomía y exploración espacial |
+| ✍️ Escribo en mi blog técnico | 🎮 Videojuegos indie y puzzles |
+
 
 </br>
 </br>
