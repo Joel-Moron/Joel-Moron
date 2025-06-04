@@ -8,7 +8,7 @@
 
 <img align="center" src="https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0"/>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 50px;">
 
 <kbd style="padding: 15px; white-space: pre-wrap; width:43%;">
 <b>🚀 Sobre Mí</b>
