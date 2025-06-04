@@ -13,7 +13,7 @@
     <kbd>🚀 Sobre Mí</kbd>
     <br>
     <br>
-    <pre>
+    <p style="width: 40%;">
           
         💻 Programador full-stack con foco en desarrollo web, pero siempre explorando otros mundos (desktop, móvil, IA).
     
@@ -24,7 +24,7 @@
         🌙 Prefiero el modo oscuro en mis editores e IDE's (menos fatiga visual).
     
         ✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias en mi blog (próximamente).
-  </pre>
+  </p>
   </kbd>
   <kbd>
     <kbd>🧩 Intereses & Hobbies</kbd>
