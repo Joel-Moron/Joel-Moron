@@ -8,7 +8,7 @@
     </a>
 </p>
 <div style="display: inline-block;" align="center">
-<div style="display: flex; justify-content: space-between;"><div style="width: 48%;">
+    <div style="width: 48%;">
 🚀 Sobre Mí
 
     💻 Programador full-stack con foco en desarrollo web
@@ -23,7 +23,10 @@
 
     ✍️ Escribo ocasionalmente en mi blog
 
-</div><div style="width: 4%; border-left: 2px solid #30363d; height: auto; margin: 0 2%;"></div><div style="width: 48%;">
+</div>
+<div style="width: 4%; border-left: 2px solid #30363d; height: auto; margin: 0 2%;">
+</div>
+<div style="width: 48%;">
 🧩 Intereses & Hobbies
 
     � Colección de cubos Rubik (3x3 al 7x7)
@@ -38,7 +41,7 @@
 
     � Aprendizaje continuo de idiomas
 
-</div></div>
+</div>
 </div>
 
 # 💻 Tecnologas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
