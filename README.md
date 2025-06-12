@@ -12,7 +12,7 @@
     <li>💻 Programador full-stack con foco en desarrollo web, pero siempre </br> explorando otros mundos (desktop, móvil, IA).</li>
     <li>🧠 Autodidacta por naturaleza, aprendiendo tanto de código </br> como de la vida.</li>
     <li>⚡ Creo que la mejor forma de aprender es construyendo cosas útiles </br> que automaticen lo aburrido.</li>
-    <li>✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias </br> en mi <a href="#">blog</a> (próximamente).</li>
+    <!-- <li>✍️ Ocasionalmente escribo sobre tecnología, tutoriales y experiencias </br> en mi <a href="#">blog</a> (próximamente).</li>-->
 </ul>
 
 </br>
