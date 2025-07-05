@@ -85,10 +85,10 @@
 <table>
     <tr>
         <td>
-              <img src="https://github-readme-stats.vercel.app/api?username=Joel-Moron&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="360" height="250px"/>
+              <img src="https://github-readme-stats.vercel.app/api?username=Joel-Moron&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="360" height="250"/>
         </td>
         <td>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Moron&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="360" height="250px" />
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Moron&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="360" height="250" />
         </td>
     </tr>
 </table>
@@ -101,4 +101,4 @@
 ---
 
 [Joel-Moron](https://github.com/Joel-Moron)
-Ultma Edición : 03/06/2025
+Ultma Edición : 05/07/2025
