@@ -85,11 +85,8 @@
 <table>
     <tr>
         <td>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joel-Moron&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Moron&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="47%" />
-</div>
+          <img src="https://github-readme-stats.vercel.app/api?username=Joel-Moron&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="47%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Moron&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="47%" />
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
