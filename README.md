@@ -85,9 +85,7 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/Joel-Moron/github-readme-stats#gh-light-mode-only">
               <img height=259 src="https://github-readme-stats.vercel.app/api?username=Joel-Moron&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="47%" />
-            </a>
         </td>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
