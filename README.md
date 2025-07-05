@@ -85,8 +85,8 @@
 <table>
     <tr>
         <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=Joel-Moron&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="47%" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Moron&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="47%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Joel-Moron&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="47%"  height=259 />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel-Moron&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="47%"  height=259 />
         </td>
     </tr>
 </table>
